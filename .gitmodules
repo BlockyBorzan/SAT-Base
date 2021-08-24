@@ -1,0 +1,3 @@
+[submodule "Test Plugin"]
+	path = Test Plugin
+	url = git@github.com:BlockyBorzan/SAT-TestPlugin.git
